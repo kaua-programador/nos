@@ -1,5 +1,9 @@
-function verificarSenha(){
-    const senhaCorreta = "amem";
+
+
+
+function verificarSenha() {
+
+const senhaCorreta = "amem";
     const senhaDigitada = document.getElementById("senha").value;
     const fornulario =  document.getElementById("formulario");
 
@@ -9,5 +13,10 @@ function verificarSenha(){
         alert ("acesso liberado!");
     } else{
         alert ("senha incorreta!");
-    }
+
+
+
+
+}
+
 }

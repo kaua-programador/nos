@@ -5,12 +5,27 @@ transform: rotate(90deg);
 
 }
 
+h1{
+    margin: 5px;
+   
+}
+
 p{
-    color: black;
+    color: red;
+    font-size: 30px;
+    background-color: #fff;
 }
 
 
 .troll{
+    background-color: brown;
+}
+
+.um{
+    background-color: brown;
+}
+ 
+.dois{
     background-color: brown;
 }
 
@@ -39,3 +54,4 @@ body::before{
         z-index: -1;
           
 }
+
