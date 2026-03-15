@@ -1,1 +1,1 @@
-readme logo sera feito e postado.
+logo sera atualzado
