@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: -10px;
     min-height: 100vh;
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
@@ -31,7 +31,6 @@ body::before{
     object-fit: cover;
     display: block;
     margin: 90px;
-    padding: px;
     padding-left: 80px;
     margin-top: 600px;
     position: relative;
@@ -47,7 +46,7 @@ body::before{
     position: relative;
     display: flex;
     top: 200px;
-    margin: 5px;
+    margin: 20px;
 
 }
 
@@ -59,7 +58,7 @@ body::before{
     position: relative;
     display: flex;
     top: -200px;
-    margin: 10px;
+    margin: 20px;
 
 }
 
@@ -72,7 +71,7 @@ body::before{
     position: relative;
     display: flex;
      top: -230px;
-     margin: 10px;
+     margin: 20px;
      
     
 
@@ -84,6 +83,7 @@ body::before{
     border-radius: 20px;
     display: flex;
     justify-content: right 300px;
+    margin: 10PX;
    
 }
 
@@ -95,7 +95,7 @@ body::before{
     position: relative;
     display: flex;
      top: -200px;
-     margin: 10px;
+     margin: 20px;
     
 
 }
@@ -108,10 +108,11 @@ body::before{
     position: relative;
     display: flex;
      top: -200px;
-     margin: 10px;
+     margin: 20px;
     
 }
 
 h1{
-    margin: 1px;
+    margin: 10px;
+    top: 10px;
 }
