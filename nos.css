@@ -19,18 +19,26 @@ p{
 
 .troll{
     background-color: brown;
+     color: #fff;
+     border: none;
 }
 
 .um{
     background-color: brown;
+     color: #fff;
+     border: none;
 }
  
 .dois{
     background-color: brown;
+     color: #fff;
+     border: none;
 }
 
 .vdd{
-    background-color:red;
+    background-color:brown;
+    color: #fff;
+    border: none;
 }
 
 body{
